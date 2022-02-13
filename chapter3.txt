@@ -1,1 +1,5 @@
 you know my name and place, then i pursuing cse...:/
+
+if i change anything in this chapter3.txt
+git diff chapter3.txt-----check and compare
+git checkout chapter3.txt------to go back before file

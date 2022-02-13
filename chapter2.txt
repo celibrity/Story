@@ -1,1 +1,10 @@
-since you know my name, then i belongs to nellore:)
+then i create two more chapters which are chapter2, chapter3
+git status---untrackable
+git add .
+
+hahahahahahahahahahaahahahahahahahahahahaahahhahahahahah
+
+
+git status---added
+git commit -m "complete chapter2 and 3"
+git log

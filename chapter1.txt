@@ -1,1 +1,20 @@
-hi this is sai dhathri! and my first chapter story(fresh)
+create story directory in desktop 
+create chapter1.txt file
+git init
+git status----untracked file
+git add chapter1.txt
+git status ----added
+git commit -m "complete chapter1"
+
+
+git branch alien-------add another branch
+#########alien alien alien alien alien alien########s
+git branch------check where we are
+
+
+
+git log--------tell me wo are you?
+git config --global user.email "lsdhathri@gmail.com"
+git config --global user.name "Sai dhathri"
+git commit -m "complete chapter 1"
+git log---------commited
